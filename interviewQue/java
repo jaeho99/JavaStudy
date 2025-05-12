@@ -1,0 +1,20 @@
+자바 면접질문 정리
+
+toString()은 object클래스가 자바의 모든 클래스에 상속되기 때문에
+별도의 import가 필요하지 않다.
+
+Model과 Service의 계층구조
+모델은 데이터와 관련된 객체나 클래스를 의미
+서비스는 비즈니스 로직을 처리하는 계층
+
+모델은 데이터를 관리하는데 초점을 둠
+서비스는 비즈니스 로직을 구현하는데 초점을 둠
+
+
+DAO와 Service의 차이
+string, stringbuffer, stringbuilder 차이점
+string은 상속받지않고 사용할 수 있는가?
+preparestatement는 무엇인가
+equal과 toString은 import없이 사용할수있는가
+statement와 prestatement차이
+
